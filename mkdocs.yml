@@ -1,6 +1,7 @@
 site_name: 'CCNU_RUN'
 site_author: muxistudio
 site_description: '华中师范大学飞跃手册'
+site_url: https://muxi-studio.github.io/ccnu-run/
 nav:
     - 首页: index.md
     - 关于: about.md
