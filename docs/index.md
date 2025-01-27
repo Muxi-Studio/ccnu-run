@@ -17,10 +17,13 @@
 
 ## Contribute Guide
 
-如果您对本站与本计划感兴趣，请访问GitHub站点：[https://github.com/west2-online/fzu-run](https://github.com/west2-online/fzu-run)
+如果您对本站与本计划感兴趣，请访问GitHub站点：
+[https://github.com/Muxi-Studio/ccnu-run](https://github.com/Muxi-Studio/ccnu-run) 
 
-<!-- - 对于没有 Git 使用背景的大部分同学，可以把自己的经验文稿发送给：admin@west2.online ，我们会帮助你发布 -->
-- 对于有 Git 背景的同学来说，请参阅 [贡献指南](https://run.west2.online/contribute-guide/) ，我们会及时的 Review、Merge。
+
+- 对于有 Git 背景的同学来说，请参阅 [贡献指南](https://muxi-studio.github.io/ccnu-run/contribute-guide/) ，我们会及时的 Review、Merge。 
+
+- 对于没有 Git 使用背景的大部分同学，可以把自己的经验文稿发送给：muxistudio@qq.com，我们会帮助你发布 
 
 ## Copyright
 
