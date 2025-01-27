@@ -1,0 +1,40 @@
+site_name: 'CCNU_RUN'
+site_author: muxistudio
+site_description: '华中师范大学飞跃手册'
+nav:
+    - 首页: index.md
+    - 关于: about.md
+    - 贡献指南: contribute-guide.md
+    - 转专业:
+      - change-major/README.md
+    - 研究生:
+        - post-graduate/README.md
+    - 就业:
+        - towork/README.md  
+repo_name: Muxi-Studio/ccnu-run
+repo_url: https://github.com/Muxi-Studio/ccnu-run
+edit_uri: edit/main/docs/
+theme:
+    icon:
+        edit: material/pencil-box-multiple-outline
+        view: material/file-eye-outline
+        repo: fontawesome/brands/github
+    name: material
+    language: zh
+    palette:
+        primary: white
+        accent: blue
+    custom_dir: overrides
+    features:
+        - navigation.path
+        - navigation.tabs
+        - navigation.indexes
+        - navigation.tabs.sticky
+        - navigation.tracking
+        - toc.follow
+        - content.action.edit
+        - content.action.view
+        - navigation.footer
+        - navigation.path
+        - navigation.top
+
